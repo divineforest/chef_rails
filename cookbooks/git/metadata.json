@@ -1,0 +1,35 @@
+{
+  "name": "git",
+  "description": "Installs git and/or sets up a Git server daemon",
+  "maintainer": "Evrone, Inc.",
+  "maintainer_email": "cookbooks@evrone.com",
+  "license": "Apache 2.0",
+  "platforms": {
+    "ubuntu": [
+
+    ],
+    "debian": [
+
+    ]
+  },
+  "dependencies": {
+  },
+  "recommendations": {
+  },
+  "suggestions": {
+  },
+  "conflicting": {
+  },
+  "providing": {
+  },
+  "replacing": {
+  },
+  "attributes": {
+  },
+  "groupings": {
+  },
+  "recipes": {
+    "git": "Installs git"
+  },
+  "version": "0.0.1"
+}
